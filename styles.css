@@ -153,26 +153,3 @@ p.moralite{ color:grey;
 #indantidote{ margin-top:60px; margin-bottom: 40px;}
 
 
-@media all and (orientation: portrait)
-{ 
-#jeu{float:none;width: 70%;margin-left:20% ;}
-#action{float:none;width: 70%; margin-left:20%; }
-#indices{ float:none;width: 70%;margin-left:20% ;}
-#footer{float:none; }
-#general2{ float:none;width: 70%;margin-left:20%;}
-img{ width: 60%; height:auto;}
-h2{color: #191a1a ; }
-iframe {float:none;width:460px;}
-#logonanot{float:none;width: 70%; }
-#logo2 {float:none;width: 90%;}
-#carteindice  {width:80%;}
-#coffre { width: 180%;}
-#position { margin-top:100px;}
-h1.felicitations{ margin-top:100px;
-margin-left:100px;font-size: 18px;
-font-family: 'Roboto', sans-serif;}
-p.imgcarnet { 
-margin-top: 100px ;  
- width:180%;
-}
-
